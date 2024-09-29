@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/My projects/VScode/Embedded_Learning_1/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++11 -o CMakeFiles\\Hello_World.dir\\main.cpp.obj -c \"D:\\My projects\\VScode\\Embedded_Learning_1\\main.cpp\"",
+  "file": "D:/My projects/VScode/Embedded_Learning_1/main.cpp",
+  "output": "CMakeFiles/Hello_World.dir/main.cpp.obj"
+}
+]
